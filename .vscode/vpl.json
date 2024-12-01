@@ -1,0 +1,26 @@
+{
+  "useWebsocket": true,
+  "useUnsecureURL": false,
+  "hideInformations": false,
+  "dontRefreshInfos": false,
+  "protocol": "https",
+  "hostname": "moodle.caseine.org",
+  "path": "/webservice/rest/server.php",
+  "vplId": "34181",
+  "personalToken": "2a45db5d27826b0498eadd441d3001ef",
+  "files": [
+    "README.md",
+    "test.txt",
+    "Makefile",
+    "assign1.lex",
+    "assign1.y",
+    "assign2.lex",
+    "assign2.y",
+    "expr.lex",
+    "expr.y",
+    "simple_expression.txt",
+    "table_symboles.c",
+    "table_symboles.h",
+    "uthash.h"
+  ]
+}
